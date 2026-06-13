@@ -1,0 +1,6 @@
+Bill,Amount,Paid,Status
+1001,4747,Paid,Delivered
+1002,2150,Paid,Delivered
+1003,890,"Not Paid",Sold
+1004,5630,Paid,Delivered
+1005,1200,"Not Paid",Sold
